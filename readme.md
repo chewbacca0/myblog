@@ -11,7 +11,7 @@ Merhaba! Ben Emirhan ÖZER. Web geliştirici ve teknoloji tutkunu.
 Ben Emirhan ÖZER, Süleyman Demirel Üniversitesi'nde bilgisayar mühendisliği 3. sınıf öğrencisiyim. Şu anda web geliştirme ve mobil uygulamalar üzerine çalışıyorum. Ayrıca İngilizce öğrenmeye devam ediyorum. Hangi alana yöneleceğime henüz karar vermedim, bu yüzden farklı alanlarda bilgi ve deneyim kazanarak en uygun kararı vermeyi planlıyorum.
 
 ### Hakkımda Video
-[YouTube'daki Hakkımda Video](https://youtu.be/Wtgz3ToV4UM?si=F8rYZKq5CXIKp2pl)
+[YouTube'daki Hakkımda Video](https://www.youtube.com/watch?v=EdNI8hpLiLg)
 
 ## Projeyi Görüntüle
 Uygulamayı görmek için [buraya tıklayın](https://emirhanozer.netlify.app).
