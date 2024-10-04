@@ -13,6 +13,9 @@ Ben Emirhan ÖZER, Süleyman Demirel Üniversitesi'nde bilgisayar mühendisliği
 ### Hakkımda Video
 [YouTube'daki Hakkımda Video](https://youtu.be/Wtgz3ToV4UM?si=F8rYZKq5CXIKp2pl)
 
+## Projeyi Görüntüle
+Uygulamayı görmek için [buraya tıklayın](https://emirhanozer.netlify.app).
+
 ## İletişim
 E-posta: [l2211012033@ogr.sdu.edu.tr](mailto:l2211012033@ogr.sdu.edu.tr)  
 Emirhan ÖZER  
