@@ -5,7 +5,7 @@ Emirhan ÖZER'in kişisel web sitesi. Web geliştirme ve teknolojiye olan ilgisi
 ## Ana Sayfa
 Merhaba! Ben Emirhan ÖZER. Web geliştirici ve teknoloji tutkunu.
 
-![Profil Fotoğrafı](resim.jpeg)
+![Profil Fotoğrafı](resim1.jpeg)
 
 ## Hakkımda
 Ben Emirhan ÖZER, Süleyman Demirel Üniversitesi'nde bilgisayar mühendisliği 3. sınıf öğrencisiyim. Şu anda web geliştirme ve mobil uygulamalar üzerine çalışıyorum. Ayrıca İngilizce öğrenmeye devam ediyorum. Hangi alana yöneleceğime henüz karar vermedim, bu yüzden farklı alanlarda bilgi ve deneyim kazanarak en uygun kararı vermeyi planlıyorum.
